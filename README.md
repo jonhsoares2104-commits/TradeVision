@@ -32,4 +32,4 @@ O sistema permite buscar dados históricos, gerar gráficos, calcular indicadore
 
 
 ```bash
-git clone https://github.com/seuusuario/analisador-acoes.git
+gh repo clone jonhsoares2104-commits/stock-analyzer-python
